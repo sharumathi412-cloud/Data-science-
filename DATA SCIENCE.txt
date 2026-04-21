@@ -1,0 +1,41 @@
+   DATA SCIENCE
+Data science is the study of data used to extract meaningful insights for business decisions. It combines mathematics, computing and domain knowledge to solve real-world problems and uncover hidden patterns.
+
+Step Involved:
+Data Collection: Gathering raw data from various sources, such as databases, sensors or user interactions.
+Data Cleaning: Ensuring the data is accurate, complete and ready for analysis.
+Data Analysis: Applying statistical and computational methods to identify patterns, trends or relationships.
+Data Visualization: Creating charts, graphs and dashboards to present findings clearly.
+Decision-Making: Using insights to inform strategies, create solutions or predict outcomes.
+
+SKILLS:
+Programming: Proficiency in programming languages like Python, R or SQL is crucial for analyzing and processing data effectively.
+Statistics and Mathematics: A strong foundation in statistics and linear algebra helps in understanding data patterns and building predictive models.
+Machine Learning: Knowledge of machine learning algorithms and frameworks is key to creating intelligent data-driven solutions.
+Data Visualization: The ability to present data insights through tools like Tableau, Power BI or Matplotlib ensures findings are clear and actionable.
+Data Wrangling: Skills in cleaning, transforming and preparing raw data for analysis are vital for maintaining data quality.
+Big Data Tools: Familiarity with tools like Hadoop, Spark or cloud platforms helps in handling large datasets efficiently.
+Non-Technical Skills: Critical thinking and communication help analyze data effectively and clearly explain insights to 
+stakeholders.
+
+APPLICATIONS
+Finance & Banking: Used for credit risk modeling, fraudulent transaction detection, and automated algorithmic trading.
+Healthcare & Medicine: Powers AI-based medical assessment platforms, diagnostics, and patient risk categorization.
+E-commerce & Retail: Powers recommendation engines (personalized shopping suggestions) and sentiment analysis of customer reviews.
+Transportation & Logistics: Foundational for self-driving vehicle technology, optimized route planning, and reducing fuel consumption.
+Manufacturing: Applied for predictive maintenance of machinery to reduce downtime.
+Digital Media & Marketing: Used for audience analytics and optimizing advertisement engagement. 
+
+PROCESS
+1.Data collection
+2.Data cleaning
+3.Data analysis
+4.Model building
+5.Deployment/Monitoring
+
+ROLES IN Amazon,Swiggy,Meesho
+Data science at Amazon is deeply integrated into every aspect of its business, functioning as the core driver for personalized customer experiences, supply chain optimization, and automated decision-making. With a focus on "customer-obsessed science," data scientists at Amazon turn massive datasets into actionable insights to predict demand, set prices, and enhance services.
+
+Swiggy utilizes data science to optimize its entire food delivery ecosystem through machine learning and AI, focusing on personalized customer experiences, efficient logistics, and demand prediction. Key applications include AI-driven ETA models, personalized restaurant recommendations, dynamic pricing, and managing food supply surges during peak times. 
+ 
+
