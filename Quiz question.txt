@@ -1,0 +1,27 @@
+QUIZ QUESTION:
+
+raj having 2 sons ,1st son having 1 daughter 2 sons,2nd son having 2 daughters 2 sons
+raj- 1st son-daughter-having daughter(girl baby)
+raj-2nd son- one son having daughter(girl baby)
+que: how many girls and boys in raj's family?
+
+
+answer:
+raj B 1 
+he having 2 sons 2                            
+1st son having 2 boy 2
+2nd son having 2 boy 2
+1st son's daughter having one husband 1
+2st son's daughters having 1 for both 2 
+
+total: 10 boys 
+
+girls:
+raj wife 1
+1st son 1 girl with his wife = 2
+2nd son 2 girl with his wife = 3
+1 granddaughter for both sons and 2 sons having 4 DIL = 6
+ 
+total: 12 girls
+
+	
